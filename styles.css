@@ -38,7 +38,7 @@ main {
 /* Header */
 header {
     max-width: var(--max-width);
-    background: #949494;
+    background: #f8f8f8;
     padding: 12px 16px;
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@ header {
 }
 
 header .logo img {
-    max-height: 70px;
+    max-height: 80px;
     display: block;
 }
 
 .details {
     line-height: 0.8;
     text-align: right;
-    color:#ffffff;
+    color:#000000;
 }
 
 .company-details {
@@ -167,7 +167,7 @@ ul {
         width: 120px; 
     }
     header .logo img { 
-        max-height: 70px; 
+        max-height: 80px; 
     }
 }
 
@@ -177,7 +177,7 @@ ul {
         margin-left: 10px; 
     }
     header .logo img { 
-        max-height: 60px; 
+        max-height: 7dvb; 
     }
     .project-cost table tbody td:nth-child(2) { 
         width: 100px; 
